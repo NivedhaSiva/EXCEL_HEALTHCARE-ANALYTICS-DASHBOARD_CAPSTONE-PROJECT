@@ -1,11 +1,14 @@
-[CAPSTONE_Problem Statement.pdf](https://github.com/user-attachments/files/24212095/CAPSTONE_Problem.Statement.pdf)
-AI-Driven Data Analytics Curriculum – Version 8 Module Number: 1 Module Name: Excel
-Module End Assignment Title: AI-Powered Healthcare Data
-Insights and Dashboarding
+
+AI-Driven Data Analytics
+Module Number: 1 Module Name: Excel Module End Assignment 
+Title: AI-Powered Healthcare Data Insights and Dashboarding
+
 Problem Statement:
 The healthcare industry generates vast amounts of data daily, providing valuable insights for healthcare providers and policymakers to improve patient care, allocate resources effectively, and manage healthcare costs. This project aims to analyze a comprehensive healthcare dataset comprising medical examinations, hospitalization details, and customer profiles to extract insights into patient health profiles, medical histories, and healthcare costs. By exploring relationships between various health metrics, identifying trends, and visualizing key patterns, we aim to deliver actionable insights to healthcare stakeholders for informed decision-making through rigorous data cleaning, transformation, exploration, and analysis.
+
 Dataset Download:
 https://drive.google.com/uc?export=download&id=1zelh7bZrE7F290QtTABHgHYn4B7JDbZO
+
 Project Steps and Objectives:
 Data Cleaning: (5 marks)
 1) Check for the number of missing values marked with '?' in each column of the "Medical Examinations" table and "Hospitalization Details" table.
